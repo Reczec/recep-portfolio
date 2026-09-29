@@ -1,0 +1,19 @@
+{
+  "$schema": "https://raw.githubusercontent.com/can1357/oh-my-pi/main/packages/coding-agent/src/config/mcp-schema.json",
+  "mcpServers": {
+    "supabase": {
+      "type": "http",
+      "url": "https://mcp.supabase.com/mcp?project_ref=opmkxogyqrneyuwvmidu&read_only=true&features=database,docs,debugging,development",
+      "auth": {
+        "type": "oauth",
+        "credentialId": "mcp_oauth:profile:default:https://mcp.supabase.com/mcp?project_ref=opmkxogyqrneyuwvmidu&read_only=true&features=database,docs,debugging,development",
+        "tokenUrl": "https://api.supabase.com/v1/oauth/token",
+        "clientId": "01127b6c-7815-4327-b925-16f09003ce6d",
+        "resource": "https://mcp.supabase.com/mcp?project_ref=opmkxogyqrneyuwvmidu&read_only=true&features=database,docs,debugging,development"
+      },
+      "oauth": {
+        "clientId": "01127b6c-7815-4327-b925-16f09003ce6d"
+      }
+    }
+  }
+}
