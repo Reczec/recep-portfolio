@@ -7,7 +7,7 @@
 web
 
 ## Stack
-Plain static HTML/CSS/JS, no build step, in `site/`. Confirmed by the user. The older Next.js app in the repo root is left untouched. Deploy target undecided.
+Plain static HTML/CSS/JS, no build step, in `docs/`. Confirmed by the user. The older Next.js app in the repo root is left untouched. Deploy target undecided.
 
 ## Users
 Primary: Austrian recruiters, HR and hiring managers (Vienna-based, hybrid or on-site) screening junior candidates in about 30 seconds, often on a phone. Secondary: international readers who need English; the thesis/Matura network.
@@ -25,8 +25,8 @@ Matura and diploma thesis in 2026. Based in Vienna.
 - Bilingual DE (default) / EN with a toggle; first visit follows browser language; choice remembered.
 - Mobile first. No contact form (static site).
 - Contact: email Recep.Bas_@hotmail.com, phone +43 660 6375464, LinkedIn https://www.linkedin.com/in/recep-ba%C5%9F/, GitHub https://github.com/Reczec
-- CV downloads (site/cv/): Lebenslauf (DE, with photo), CV (EN, with photo), CV (EN, no photo).
-- Photo: site/img/recep.webp (user's own CV portrait, supplied by him).
+- CV downloads (docs/cv/): Lebenslauf (DE, with photo), CV (EN, with photo), CV (EN, no photo).
+- Photo: docs/img/recep.webp (user's own CV portrait, supplied by him).
 
 ## Evidence on Hand
 Source of truth is the user's own CVs (Desktop/Me). Facts, no more:

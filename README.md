@@ -2,7 +2,7 @@
 
 Persönliche Portfolio-Website von Recep Baş: HTL-Absolvent (TGM Wien, Wirtschaftsingenieurwesen – Betriebsinformatik, 2026), auf der Suche nach dem Einstieg in Softwareentwicklung, IT-Support oder Business Software / ERP in Wien.
 
-Die aktuelle Seite liegt in [`site/`](site/): reines HTML, CSS und JavaScript, ohne Build-Schritt.
+Die aktuelle Seite liegt in [`docs/`](docs/): reines HTML, CSS und JavaScript, ohne Build-Schritt.
 
 ## Funktionen
 
@@ -16,35 +16,27 @@ Die aktuelle Seite liegt in [`site/`](site/): reines HTML, CSS und JavaScript, o
 ## Lokal ansehen
 
 ```bash
-python -m http.server 3036 --directory site
+python -m http.server 3036 --directory docs
 ```
 
 Dann `http://localhost:3036` öffnen.
 
 ## Inhalte ändern
 
-- Deutsche Texte: `site/index.html`
-- Englische Texte: `site/app.js` (Objekt `EN`, gleiche Schlüssel wie `data-i18n` im HTML)
-- Lebensläufe: `site/cv/` (PDFs ersetzen, Dateinamen beibehalten)
-- Foto: `site/img/recep.webp`
-- Farben, Schrift, Abstände: `site/style.css`
+- Deutsche Texte: `docs/index.html`
+- Englische Texte: `docs/app.js` (Objekt `EN`, gleiche Schlüssel wie `data-i18n` im HTML)
+- Lebensläufe: `docs/cv/` (PDFs ersetzen, Dateinamen beibehalten)
+- Foto: `docs/img/recep.webp`
+- Farben, Schrift, Abstände: `docs/style.css`
 
 ## Veröffentlichen
 
-Den Ordner `site/` auf einen statischen Host legen (GitHub Pages, Netlify, Vercel). Es ist kein Build nötig.
+Der Ordner `docs/` ist direkt als statische Seite veröffentlichbar. Bei GitHub Pages: *Settings → Pages → Build and deployment → Source: Deploy from a branch → Branch `main`, Ordner `/docs`*. Alternativ lässt sich `docs/` auf jeden statischen Host legen (Netlify, Vercel); es ist kein Build nötig.
 
 ## Projektdokumentation
 
 - [`PRODUCT.md`](PRODUCT.md): Zielgruppe, Zweck und belegte Inhalte der Seite
 - [`DESIGN.md`](DESIGN.md): Design-System (Farben, Typografie, Komponenten)
-
-## Ältere Version
-
-Im Repository liegt außerdem die frühere Next.js-Version des Portfolios (`src/`, `public/`, `package.json`). Sie wird von der aktuellen Seite nicht verwendet.
-
-```bash
-npm run dev   # Next.js-Version auf Port 3035
-```
 
 ## Kontakt
 
