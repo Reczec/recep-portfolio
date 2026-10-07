@@ -1,34 +1,53 @@
-# Recep Baş Portfolio
+# Recep Baş – Portfolio
 
-A Next.js portfolio for junior opportunities in IT, software, systems, AI, and automation.
+Persönliche Portfolio-Website von Recep Baş: HTL-Absolvent (TGM Wien, Wirtschaftsingenieurwesen – Betriebsinformatik, 2026), auf der Suche nach dem Einstieg in Softwareentwicklung, IT-Support oder Business Software / ERP in Wien.
 
-## Content
+Die aktuelle Seite liegt in [`site/`](site/): reines HTML, CSS und JavaScript, ohne Build-Schritt.
 
-- Homepage sections for positioning, capabilities, selected work, education, current work, and contact.
-- Case studies at `/projects/signly` and `/projects/medical-knowledge-base`.
-- Static project data in `src/app/lib/site.ts`, structured for a future live project feed.
-- A clearly disabled **Download CV** control until a real PDF is available.
+## Funktionen
 
-## Add the CV
+- Dunkles, minimalistisches Design, mobil zuerst
+- Zweisprachig: Deutsch (Standard) und Englisch per DE/EN-Schalter. Die Browsersprache wird beim ersten Besuch berücksichtigt, die Wahl wird lokal gespeichert.
+- Projekte, Werdegang, Kenntnisse und Zertifikate, Kontakt
+- Lebenslauf zum Download (Deutsch, Englisch, Englisch ohne Foto)
+- Keine Cookies, kein Tracking, keine externen Dienste; die Schrift (Geist) wird lokal ausgeliefert
+- Tastaturbedienbar, sichtbarer Fokus, `prefers-reduced-motion` wird beachtet
 
-Place the real CV PDF at:
-
-```text
-public/recep-bas-cv.pdf
-```
-
-Then replace the disabled hero control in `src/app/page.tsx` with a download link to `/recep-bas-cv.pdf`. No CV file is included in this repository.
-
-## Local development
+## Lokal ansehen
 
 ```bash
-npm run dev
+python -m http.server 3036 --directory site
 ```
 
-## Validation
+Dann `http://localhost:3036` öffnen.
+
+## Inhalte ändern
+
+- Deutsche Texte: `site/index.html`
+- Englische Texte: `site/app.js` (Objekt `EN`, gleiche Schlüssel wie `data-i18n` im HTML)
+- Lebensläufe: `site/cv/` (PDFs ersetzen, Dateinamen beibehalten)
+- Foto: `site/img/recep.webp`
+- Farben, Schrift, Abstände: `site/style.css`
+
+## Veröffentlichen
+
+Den Ordner `site/` auf einen statischen Host legen (GitHub Pages, Netlify, Vercel). Es ist kein Build nötig.
+
+## Projektdokumentation
+
+- [`PRODUCT.md`](PRODUCT.md): Zielgruppe, Zweck und belegte Inhalte der Seite
+- [`DESIGN.md`](DESIGN.md): Design-System (Farben, Typografie, Komponenten)
+
+## Ältere Version
+
+Im Repository liegt außerdem die frühere Next.js-Version des Portfolios (`src/`, `public/`, `package.json`). Sie wird von der aktuellen Seite nicht verwendet.
 
 ```bash
-npm run lint
-npx tsc --noEmit
-npm run build
+npm run dev   # Next.js-Version auf Port 3035
 ```
+
+## Kontakt
+
+- E-Mail: Recep.Bas_@hotmail.com
+- [LinkedIn](https://www.linkedin.com/in/recep-ba%C5%9F/)
+- [GitHub](https://github.com/Reczec)
