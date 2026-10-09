@@ -7,7 +7,7 @@ Die aktuelle Seite liegt in [`docs/`](docs/): reines HTML, CSS und JavaScript, o
 ## Funktionen
 
 - Dunkles, minimalistisches Design, mobil zuerst
-- Zweisprachig: Deutsch (Standard) und Englisch per DE/EN-Schalter. Die Browsersprache wird beim ersten Besuch berücksichtigt, die Wahl wird lokal gespeichert.
+- Zweisprachig: Englisch (Standard) und Deutsch per EN/DE-Schalter. Die Wahl wird lokal im Browser gespeichert.
 - Projekte, Werdegang, Kenntnisse und Zertifikate, Kontakt
 - Lebenslauf zum Download (Deutsch, Englisch, Englisch ohne Foto)
 - Keine Cookies, kein Tracking, keine externen Dienste; die Schrift (Geist) wird lokal ausgeliefert
@@ -23,8 +23,8 @@ Dann `http://localhost:3036` öffnen.
 
 ## Inhalte ändern
 
-- Deutsche Texte: `docs/index.html`
-- Englische Texte: `docs/app.js` (Objekt `EN`, gleiche Schlüssel wie `data-i18n` im HTML)
+- Englische Texte (Standard): `docs/index.html`
+- Deutsche Texte: `docs/app.js` (Objekt `DE`, gleiche Schlüssel wie `data-i18n` im HTML)
 - Lebensläufe: `docs/cv/` (PDFs ersetzen, Dateinamen beibehalten)
 - Foto: `docs/img/recep.webp`
 - Farben, Schrift, Abstände: `docs/style.css`

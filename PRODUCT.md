@@ -22,7 +22,7 @@ A recent TGM Wien graduate (Wirtschaftsingenieurwesen - Betriebsinformatik) who 
 Matura and diploma thesis in 2026. Based in Vienna.
 
 ## Capabilities and Constraints
-- Bilingual DE (default) / EN with a toggle; first visit follows browser language; choice remembered.
+- Bilingual EN (default) / DE with a toggle; choice remembered. Changed from DE-default on 2026-10-09 at the user's request.
 - Mobile first. No contact form (static site).
 - Contact: email Recep.Bas_@hotmail.com, phone +43 660 6375464, LinkedIn https://www.linkedin.com/in/recep-ba%C5%9F/, GitHub https://github.com/Reczec
 - CV downloads (docs/cv/): Lebenslauf (DE, with photo), CV (EN, with photo), CV (EN, no photo).
@@ -43,7 +43,7 @@ Source of truth is the user's own CVs (Desktop/Me). Facts, no more:
 ## Product Principles
 1. Describe only what he actually did; no overclaiming, no invented numbers or experience.
 2. The reader's first 30 seconds: who, what, where, how to reach.
-3. German first, English equal in quality.
+3. English by default, German equal in quality.
 4. Honest about junior level; show evidence over adjectives.
 
 ## Accessibility & Inclusion
