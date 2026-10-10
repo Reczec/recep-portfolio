@@ -16,7 +16,6 @@
     lede: "Ich habe Erfahrung in Python, SQL und Webentwicklung. In meiner Diplomarbeit habe ich eine webbasierte medizinische Wissensdatenbank mit FastAPI und SQLite entwickelt. Ich suche den Einstieg in Softwareentwicklung, IT-Support oder Business Software und ERP.",
     btnMail: "E-Mail schreiben",
     btnCv: "Lebenslauf",
-    btnCall: "Anrufen",
     photoAlt: "Porträt von Recep Baş im dunklen Sakko und weißen Hemd",
     factsLabel: "Steckbrief",
     fDegree: "Abschluss",
@@ -58,13 +57,12 @@
     hContact: "Kontakt",
     contactIntro: "Ich freue mich über jede Nachricht und beantworte gern Fragen zu meinen Projekten.",
     cMail: "E-Mail",
-    cPhone: "Telefon",
     cvTitle: "Lebenslauf herunterladen",
     cvDe: "Deutsch",
     cvEn: "Englisch",
     cvEnNo: "Englisch, ohne Foto",
     legalSum: "Impressum &amp; Datenschutz",
-    legalText: "Offenlegung nach § 25 Mediengesetz: Medieninhaber und Herausgeber ist Recep Baş, Wohnort Wien, Österreich. Diese Website dient der persönlichen Vorstellung und Bewerbung. Kontakt: Recep.Bas_@hotmail.com.<br><br>Datenschutz: Diese Seite verwendet keine Cookies, kein Tracking und keine externen Dienste oder Schriften. Die gewählte Sprache wird nur lokal in Ihrem Browser gespeichert. Der Hosting-Anbieter kann technisch bedingt Zugriffsdaten (z. B. IP-Adresse) in Server-Logs verarbeiten. Bei Kontakt per E-Mail oder Telefon verarbeite ich Ihre Angaben nur, um Ihnen zu antworten."
+    legalText: "Offenlegung nach § 25 Mediengesetz: Medieninhaber und Herausgeber ist Recep Baş, Wohnort Wien, Österreich. Diese Website dient der persönlichen Vorstellung und Bewerbung. Kontakt: Recep.Bas_@hotmail.com.<br><br>Datenschutz: Diese Seite verwendet keine Cookies, kein Tracking und keine externen Dienste oder Schriften. Die gewählte Sprache wird nur lokal in Ihrem Browser gespeichert. Der Hosting-Anbieter kann technisch bedingt Zugriffsdaten (z. B. IP-Adresse) in Server-Logs verarbeiten. Bei Kontakt per E-Mail verarbeite ich Ihre Angaben nur, um Ihnen zu antworten."
   };
 
   var KEY = "rb-lang";

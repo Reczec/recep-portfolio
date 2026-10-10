@@ -24,7 +24,7 @@ Matura and diploma thesis in 2026. Based in Vienna.
 ## Capabilities and Constraints
 - Bilingual EN (default) / DE with a toggle; choice remembered. Changed from DE-default on 2026-10-09 at the user's request.
 - Mobile first. No contact form (static site).
-- Contact: email Recep.Bas_@hotmail.com, phone +43 660 6375464, LinkedIn https://www.linkedin.com/in/recep-ba%C5%9F/, GitHub https://github.com/Reczec
+- Contact: email Recep.Bas_@hotmail.com (phone number deliberately not shown on the site, only in the CV PDFs), LinkedIn https://www.linkedin.com/in/recep-ba%C5%9F/, GitHub https://github.com/Reczec
 - CV downloads (docs/cv/): Lebenslauf (DE, with photo), CV (EN, with photo), CV (EN, no photo).
 - Photo: docs/img/recep.webp (user's own CV portrait, supplied by him).
 
