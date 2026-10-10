@@ -30,13 +30,13 @@ Matura and diploma thesis in 2026. Based in Vienna.
 
 ## Evidence on Hand
 Source of truth is the user's own CVs (Desktop/Me). Facts, no more:
-- TGM Wien, 09/2020-06/2026, Reife- und Diplomprüfung, Wirtschaftsingenieurwesen - Betriebsinformatik. Focus: software development, databases, ERP, project management, networks.
+- TGM Wien, 09/2020-06/2026, Reife- und Diplomprüfung, Wirtschaftsingenieurwesen - Betriebsinformatik. IT (software development and project management, databases, information systems with ERP SAP/Odoo, networks and embedded software, cloud computing), business and engineering (operations engineering, business management and commercial law, applied mathematics, mechatronics, laboratory); electives: Technically Innovative Projects, Volleyball.
 - Work: SPAR Österreich, Marktmitarbeiter Kassa (part-time), Wien, 11/2022-05/2024.
 - Diploma thesis 2025-2026: web-based knowledge database inside an AI-assisted medical assistance system (team project); his focus the knowledge database. Create/edit/archive entries, categories and keywords, search and filter, REST API with Python/FastAPI, SQLite, HTML/CSS/JS, JSON export; also concept, research, testing, documentation, final presentation.
 - Signly, 09/2026, HACK_002 24h AI Hackathon: browser prototype recognising isolated ASL signs via webcam on-device. React, TypeScript, MediaPipe, ONNX Runtime Web, Python. github.com/Reczec/signly
-- Constellate, 10/2026, Hack-Nation 7th Global AI Hackathon, Vienna Hub: team project, knowledge graph of rare diseases structured by mechanisms, with sources and evidence levels. Demo constellate-vert.vercel.app, code github.com/hannokuegler/constellate. His individual role is not stated; say "Teamprojekt" only.
+- Constellate, 10/2026, Hack-Nation 7th Global AI Hackathon, Vienna Hub: team project, knowledge graph of rare diseases structured by mechanisms, with sources and evidence levels. Demo constellate-omega.vercel.app, code github.com/Reczec/constellate. His individual role is not stated; say "Teamprojekt" only.
 - Skills: Python, FastAPI, REST API, SQL/SQLite, HTML/CSS, JavaScript, TypeScript/React (basics), Git/GitHub; SAP ERP (basics), Odoo (basics), Microsoft Azure Fundamentals, MS Office.
-- Languages: German and Turkish native, English fluent / business proficient.
+- Languages: German and Turkish native, English fluent.
 - Certificates: Microsoft Certified Azure Fundamentals (2025), SAP ERP Fundamentals (2026), Odoo 18 Business Game (2026), CLIL Certificate (2026), Sicherheitsvertrauensperson (SVP), driving licence B.
 - Absent: testimonials, metrics, live demo of the thesis. Never fabricate these.
 
