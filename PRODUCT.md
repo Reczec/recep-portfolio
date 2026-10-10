@@ -34,7 +34,7 @@ Source of truth is the user's own CVs (Desktop/Me). Facts, no more:
 - Work: SPAR Österreich, Marktmitarbeiter Kassa (part-time), Wien, 11/2022-05/2024.
 - Diploma thesis 2025-2026: team project, web-based knowledge database for an AI-assisted medical assistance system; his focus the knowledge database (managing entries, categories, search and filters). Python, FastAPI, REST API, SQLite, HTML, CSS, JavaScript, JSON.
 - Signly, 09/2026, HACK_002 24h AI Hackathon: browser prototype recognising isolated ASL signs via webcam on-device. React, TypeScript, MediaPipe, ONNX Runtime Web, Python. github.com/Reczec/signly
-. Demo constellate-omega.vercel.app, code github.com/Reczec/constellate. His individual role is not stated; say "Teamprojekt" only.
+- Constellate, 10/2026, Hack-Nation 7th Global AI Hackathon, Vienna Hub: team project, knowledge graph of rare diseases structured by underlying mechanisms. Python, Next.js, OpenAI API, Vercel. Demo constellate-omega.vercel.app, code github.com/Reczec/constellate. His individual role is not stated; say "Teamprojekt" only.
 - Skills: Python, FastAPI, REST API, SQL/SQLite, HTML/CSS, JavaScript, TypeScript/React (basics), Git/GitHub; SAP ERP (basics), Odoo (basics), Microsoft Azure Fundamentals, MS Office.
 - Languages: German and Turkish native, English fluent.
 - Certificates: Microsoft Certified Azure Fundamentals (2025), SAP ERP Fundamentals (2026), Odoo 18 Business Game (2026), CLIL Certificate (2026), Sicherheitsvertrauensperson (SVP), driving licence B.
