@@ -28,6 +28,8 @@
     fSeekV: "Softwareentwicklung, IT-Support, Business Software / ERP",
     hProjects: "Projekte",
     techLabel: "Technologien",
+    p0Meta: "Medizinische Wissensdatenbank · Weiterentwicklung der Diplomarbeit",
+    p0Text: "Mein eigenes Projekt: eine Wissensdatenbank mit Suche, automatischer Klassifikation, Rollen (Admin, Arzt, Patient) und KI-Assistenz. Nur Beispieldaten, kein medizinisches Produkt.",
     p1Title: "Digitale Medizinische Wissensdatenbank",
     p1Meta: "Diplomarbeit · Teamprojekt",
     p1Text: "Webbasierte Wissensdatenbank für ein KI-gestütztes medizinisches Assistenzsystem. Mein Schwerpunkt war die Wissensdatenbank (Einträge verwalten, Kategorien, Suche und Filter).",
